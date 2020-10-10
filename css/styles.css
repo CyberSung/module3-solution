@@ -1,0 +1,59 @@
+body{
+	font-family: 'Chilanka', cursive;
+}
+
+.navbar{
+	border: 1px solid black;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	border-color: black;
+}
+
+#nav-list li a{
+	text-align: center;
+}
+
+hr {
+  border-top: 1px solid black;
+  border-right: 5px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-header{
+		height: 75px;
+}
+.navbar-brand{
+		padding-top: 5px;
+}
+.navbar-toggle{
+		margin-top: 20px;
+}
+
+#Food{
+	color: black;
+}
+.navbar-brand a:hover, #Food:hover{
+	color: #DB7093;
+	text-decoration: none;
+}
+
+#Chicken{
+	padding-top: 9px;
+	margin-top: -6px;
+}
+#Sushi{
+	padding-bottom: 1px;
+}
+#Our-Menu{
+	margin-top: 0px;
+}
+#Chicken-Text{
+	background-color: #CDC9C9;
+	margin-bottom: 25px;
+}
+
+@media (max-width: 767px) {
+	
+}
